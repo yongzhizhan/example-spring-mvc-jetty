@@ -1,9 +1,7 @@
-Spring MVC Embedded Jetty Example
+Spring MVC Embedded Jetty example
 =================================
 
 Basic Spring MVC 3.2.x application using embedded Jetty server
-
-Check out [kielczewski.eu/blog](http://kielczewski.eu/blog)!
 
 Requirements
 ------------

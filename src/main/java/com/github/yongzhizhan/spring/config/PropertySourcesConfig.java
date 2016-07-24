@@ -1,4 +1,4 @@
-package eu.kielczewski.example.config;
+package com.github.yongzhizhan.spring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

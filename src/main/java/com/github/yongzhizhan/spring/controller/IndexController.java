@@ -1,4 +1,4 @@
-package eu.kielczewski.example.controller;
+package com.github.yongzhizhan.spring.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
